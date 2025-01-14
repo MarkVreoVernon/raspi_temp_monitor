@@ -1,1 +1,1 @@
-raspi temperature monitoring
+raspberry pi temperature monitoring
